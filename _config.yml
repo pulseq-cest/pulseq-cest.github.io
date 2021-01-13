@@ -20,3 +20,4 @@ version:          2.1.0
 github:
   matlab:           https://github.com/kherz/pulseq-cest
   python:           https://github.com/KerstinHut/pypulseq-cest
+  library:          https://github.com/kherz/pulseq-cest-library
