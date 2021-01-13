@@ -4,7 +4,6 @@ title: Posts
 ---
 
 
-<!--
 <div class="posts">
     {% for post in site.posts %}
     <div class="post">
@@ -20,4 +19,3 @@ title: Posts
     </div>
     {% endfor %}
   </div>
-  -->
