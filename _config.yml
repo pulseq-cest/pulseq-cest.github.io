@@ -9,7 +9,7 @@ relative_permalinks: false
 title:            Pulseq-CEST
 url:              https://pulseq-cest.github.io/
 #baseurl:          https://pulseq-cest.github.io/pulseq-cest.github.io/
-baseurl:          https://pulseq-cest.github.io/
+baseurl:          ""
 
 paginate:         5
 
