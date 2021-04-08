@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Pulseq-CEST
 url:              https://pulseq-cest.github.io/
 #baseurl:          https://pulseq-cest.github.io/pulseq-cest.github.io/
-baseurl:          ""
+baseurl:          /pulseq-cest.github.io/
 
 paginate:         5
 
