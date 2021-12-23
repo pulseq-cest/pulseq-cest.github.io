@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
-
-Welcome to the <strong><i>Pulseq</i>-CEST</strong> project page!<br><br>
 
 The goal of this project is that published and approved CEST saturation blocks 
 are made available in the open  standard 
@@ -11,7 +9,7 @@ are made available in the open  standard
 This allows exact comparison of CEST saturation blocks with newly developed or adapted
 saturation blocks for reproducible CEST research. <br>
 In addition we provide an open source Bloch-McConnell simulation which allows for simulation of the
-saturation blocks.</p> <br>
+saturation blocks.
 
 For more info, check out the Paper in MRM:<br>
 Herz, K, Mueller, S, Perlman, O, et al. Pulseq-CEST: Towards multi-site multi-vendor compatibility and 
