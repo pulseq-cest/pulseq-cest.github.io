@@ -10,5 +10,6 @@ Pulseq-CEST files can be played out at a Siemens system directly with the Pulseq
 If you do it right, you can now even have online recon with Pulseq on a Siemens Scanner, so prototyping new approaches, both preparation and readout, including deployment for feasibility studies or early clinical studies have never been easier.
 Also solutions for pTx-Pulseq exist. 
 
+<img width="710" height="406" alt="grafik" src="https://github.com/user-attachments/assets/cc7af990-954c-4b9c-a7be-e8e177b8ee18" />
 
 
